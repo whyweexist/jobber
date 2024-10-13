@@ -1,0 +1,9 @@
+.cross-icon-dialog {
+    position: absolute;
+    top: 17px;
+    right: 16px;
+    width: 14px;
+    height: 14px;
+    z-index: 9999999999;
+    cursor: pointer;
+}
