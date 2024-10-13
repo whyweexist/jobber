@@ -47,7 +47,7 @@ function Footer() {
                 href="mailto:info@example.com"
                 className="hover:underline text-[#dc2626]"
               >
-                abdullah456@gmail.com
+                Tech Dreamers
               </a>
             </p>
           </div>
@@ -57,7 +57,7 @@ function Footer() {
             <div className="flex space-x-4">
               <a
               target="_blank"
-                href="https://www.facebook.com/abdullah.rafique.5891?mibextid=ZbWKwL"
+                href="#"
                 className="text-white hover:text-[#dc2626]"
                 aria-label="Facebook"
               >
@@ -65,7 +65,7 @@ function Footer() {
               </a>
               <a
               target="_blank"
-                href="https://x.com/M_Abdullah419?t=pPA8rSfnOagO2rf6i6RZyg&s=09"
+                href="#"
                 className="text-white hover:text-[#dc2626]"
                 aria-label="Twitter"
               >
@@ -81,7 +81,7 @@ function Footer() {
               </a>
               <a
               target="_blank"
-                href="https://www.instagram.com/i._.4bdull4h?igsh=OHpxeHZ1dHQxOTls"
+                href="#"
                 className="text-white hover:text-[#dc2626]"
                 aria-label="Instagram"
               >
